@@ -1,0 +1,11 @@
+INSERT INTO PRODUCT (name, description, brand, price, category, release_date, available, quantity) VALUES
+                                                                                                       ('Model S', 'Electric luxury sedan', 'Tesla', 79999.99, 'Electric Car', '2023-01-10', true, 10),
+                                                                                                       ('Mustang GT', 'High performance sports car', 'Ford', 55999.99, 'Sports Car', '2022-05-15', true, 5),
+                                                                                                       ('Civic', 'Compact sedan with great mileage', 'Honda', 23999.99, 'Sedan', '2023-03-20', true, 20),
+                                                                                                       ('Corolla', 'Reliable family sedan', 'Toyota', 21999.99, 'Sedan', '2022-08-12', true, 15),
+                                                                                                       ('X5', 'Luxury SUV with advanced features', 'BMW', 65999.99, 'SUV', '2023-06-01', true, 7),
+                                                                                                       ('A4', 'Premium compact luxury sedan', 'Audi', 44999.99, 'Sedan', '2022-11-05', true, 8),
+                                                                                                       ('Creta', 'Popular compact SUV', 'Hyundai', 18999.99, 'SUV', '2023-02-14', true, 25),
+                                                                                                       ('Fortuner', 'Powerful full-size SUV', 'Toyota', 52999.99, 'SUV', '2021-09-30', true, 6),
+                                                                                                       ('Swift', 'Affordable hatchback', 'Suzuki', 12999.99, 'Hatchback', '2023-04-18', true, 30),
+                                                                                                       ('Tiguan', 'Premium compact SUV', 'Volkswagen', 38999.99, 'SUV', '2022-12-01', true, 9);
